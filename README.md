@@ -8,5 +8,5 @@ A simple and comfy koa error handler
 ## Install
 
 ```
-npm i compy-error --save
+npm i comfy-error --save
 ```
