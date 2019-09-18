@@ -1,0 +1,15 @@
+{
+  "name": "comfy-error",
+  "version": "1.0.0",
+  "description": "Simple koa error handler",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Khalil Mansouri <khalil.mansouri@hotmail.fr>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khalilmansouri/comfy-error.git"
+  }
+}
